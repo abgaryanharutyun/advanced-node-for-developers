@@ -1,0 +1,23 @@
+{
+  "name": "advanced-node-for-developers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abgaryanharutyun/advanced-node-for-developers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abgaryanharutyun/advanced-node-for-developers/issues"
+  },
+  "homepage": "https://github.com/abgaryanharutyun/advanced-node-for-developers#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "webworker-threads": "^0.7.17"
+  }
+}
